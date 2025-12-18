@@ -88,3 +88,14 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 3. Performs human-like scrolling on each page
 4. Waits 50-55 seconds between searches
 5. Processes 30 topics by default
+
+commands.txt
+🚀 QUICK START WORKFLOWS
+Daily Rewards Earning:
+.\standalone_rewards.ps1
+
+Quick   Testing:
+.\dynamic_test.ps1
+
+See What Topics Will Be Used:
+.\topic_showcase.ps1
